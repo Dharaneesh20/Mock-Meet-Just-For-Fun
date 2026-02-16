@@ -1,0 +1,5 @@
+{
+  "name": "MockMeet - Google Meet Simulator",
+  "description": "A fully customizable mock Google Meet interface for generating screenshots and documentation. Edit participant details, images, meeting time, and more without any backend.",
+  "requestFramePermissions": []
+}
